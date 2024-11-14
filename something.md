@@ -1,2 +1,2 @@
 hello
-nothing here
+second line here
