@@ -1,2 +1,2 @@
 hello
-be merged
+merge
